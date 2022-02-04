@@ -1,0 +1,9 @@
+{
+  "name": "@webcareLBJ/prettier-config",
+  "version": "1.0.0",
+  "description": "pflege.de Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:webcareLBJ/prettier-config.git",
+  "author": "pflege.de <support@pflege.de>",
+  "license": "MIT"
+}
